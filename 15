@@ -1,6 +1,9 @@
 <!doctype html>
 <html>
     <body>
-        hello html
+        <img src="https://tspu.ru/upload/images/gerbtspu118.png">
+        <h1>ТГПУ</h1>
+        <h2>ФИЯ</h2>
+        <p>Я учусь в <a href="https://tspu.ru">ТГПУ</a>.</p>
     </body>
 </html>
